@@ -25,7 +25,5 @@ La información analizada incluye:
 - Python 3.x
 - Google Colab
 - Pandas – limpieza y análisis de datos
-
-Matplotlib / Seaborn – visualización de datos
-
-NumPy – cálculos numéricos
+- Matplotlib / Seaborn – visualización de datos
+- NumPy – cálculos numéricos
